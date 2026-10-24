@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/home-lab-projects-banner.webp" alt="Home Lab Projects" width="100%" />
+</p>
+
 # Homelab Projects
 
 A collection of my infrastructure engineering projects, labs, and experiments. This repository serves as a directory; each project links to its own repository for diagrams, technologies used, and implementation details.
